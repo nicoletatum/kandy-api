@@ -3,6 +3,16 @@
 
     ],
     "locations":[
+        {
+            "address": "123 sugar ct.",
+            "square footage": 790,
+            "handicap accessible":false
+        },
+        {
+            "address": "2741 choco mint dr.",
+            "square footage": 872,
+            "handicap accessible":true
+        }
 
     ],
     "employees":[
@@ -12,6 +22,6 @@
 
     ],
     "customers":[
-        
+
     ]
 }
